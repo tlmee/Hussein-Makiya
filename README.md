@@ -26,7 +26,7 @@
 ---
 
 ## 🚀 Featured Projects:
-- [Discord Bot](https://github.com/furat 🎵
+- [Discord Bot](https://github.com/furat) 🎵
 - [Personal Portfolio](https://github.com/USERNAME/Portfolio) 🌐
 
 ---
