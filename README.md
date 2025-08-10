@@ -1,10 +1,4 @@
-
-
-
-
-
-💻 Discord Bots Developer | Web Developer | AI Enthusiast  
- Passionate about creating unique and professional projects
+<h1 align="center">Hussein Makiya</h1>
 
 
 
